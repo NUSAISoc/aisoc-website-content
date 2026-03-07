@@ -1,0 +1,13 @@
+---
+name: "Cheka Low"
+role: "Programs Head"
+tagline: “Can you really call yourself a gym bro if you don’t know gradient descent?”
+image: "https://example.com/profile.jpg"
+order: 5 # Determines rendering order (lower numbers appear first)
+social:
+    github: "https://github.com/ChekaLowQiJun?tab=repositories" # Optional
+    linkedin: "https://www.linkedin.com/in/cheka-low-85b323230" # Optional
+    # twitter: "https://twitter.com/username" # Optional
+    # website: "https://personal-website.com" # Optional
+    # email: "email@example.com" # Optional
+---
