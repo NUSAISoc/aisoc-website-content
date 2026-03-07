@@ -1,7 +1,7 @@
 ---
 name: "Benjamin Chek"
 role: "Vice President"
-tagline: "I experience many things."
+tagline: "Experience --> Update"
 image: "https://avatars.githubusercontent.com/u/43571067?v=4"
 order: 2 # Determines rendering order (lower numbers appear first)
 social:
