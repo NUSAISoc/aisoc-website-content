@@ -3,7 +3,7 @@ title: "NUS120 Open House 2026"
 date: "2026-03-07T01:00:00.000Z"
 time: "09:00 - 18:00"
 location: "Tembusu College, UTown"
-status: "upcoming" # Must be either 'upcoming' or 'past'
+status: "past" # Must be either 'upcoming' or 'past'
 image: "https://github.com/NUSAISoc/aisoc-website-content/blob/main/imgs/open-house-hero.png?raw=true"
 description: "Find out more about us at our NUS120 Open House 2026 booth!"
 ---
