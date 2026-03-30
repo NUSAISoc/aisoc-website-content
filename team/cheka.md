@@ -2,7 +2,6 @@
 name: "Cheka Low"
 role: "Programs Head"
 tagline: "Can you really call yourself a gym bro if you don’t know gradient descent?"
-image: "https://example.com/profile.jpg"
 order: 5 # Determines rendering order (lower numbers appear first)
 social:
     github: "https://github.com/ChekaLowQiJun?tab=repositories" # Optional

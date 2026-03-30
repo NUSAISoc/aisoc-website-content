@@ -2,7 +2,6 @@
 name: "Beh Chuen Yang"
 role: "President"
 tagline: "I like RL BTW"
-image: "https://example.com/profile.jpg"
 order: 1 # Determines rendering order (lower numbers appear first)
 social:
     github: "https://github.com/N00bcak" # Optional

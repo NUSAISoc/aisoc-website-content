@@ -2,7 +2,6 @@
 name: "Taidi Zhou"
 role: "Treasurer"
 tagline: "Ask me about fancy GPUs"
-image: "https://example.com/profile.jpg"
 order: 3 # Determines rendering order (lower numbers appear first)
 social:
     github: "https://github.com/taiz2000" # Optional

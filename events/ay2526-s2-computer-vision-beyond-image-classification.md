@@ -1,9 +1,8 @@
 ---
 title: "Computer Vision: Beyond Image Classification"
-date: "2026-03-30T10:00:00.000Z"
-time: "18:00 - 20:00"
+startDate: "2026-03-30T18:00:00+08:00"
+endDate: "2026-03-30T20:00:00+08:00"
 location: "COM3-01-20 (SR11)"
-status: "upcoming" # Must be either 'upcoming' or 'past'
 description: "Think CV is just classification and detection? Think again. We're going to go further: into representation learning, depth estimation, and image inpainting, with a look at how these methods are used in research and real systems."
 image: "https://raw.githubusercontent.com/NUSAISoc/aisoc-website-content/refs/heads/main/imgs/dither.png"
 registrationUrl: "https://forms.gle/s7CiGVSkxaB62v9Z6"
